@@ -1,6 +1,7 @@
 # blogs
 个人博客
 
+比如这样
+![852da0a2a792b3164d6108782ed80e02_1](https://user-images.githubusercontent.com/52551927/144974480-6ca02a80-d55a-45d0-9ca3-0c388ba90b8e.jpg)
 
-## ![51fe10f8af24e7d5192741ec8a54016c_1](https://user-images.githubusercontent.com/52551927/137418537-ff259981-7c15-4058-8ee8-ae6f5124636f.jpg)
-当旅游了
+
